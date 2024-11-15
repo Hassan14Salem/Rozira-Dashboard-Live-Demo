@@ -1,0 +1,59 @@
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.min.css";
+@import "primeicons/primeicons.css";
+
+
+
+
+::ng-deep .p-datatable .p-datatable-thead > tr > th{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+
+.p-button.p-button-icon-only.p-button-rounded {
+    border-radius: 50% !important;
+    height: 3rem;
+}
+
+.p-datatable .p-datatable-tbody > tr > td{
+    text-align: -webkit-auto !important;
+}
+
+.p-fileupload .p-fileupload-buttonbar .p-button {
+    margin-right: 0.5rem;
+    text-wrap: nowrap;
+    margin: 10px 0px;
+    
+}
+
+.p-element .ng-star-inserted .p-disabled
+{
+    display: none !important;
+}
+
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+    }
+    
+    /* Track */
+    ::-webkit-scrollbar-track {
+    background: white;
+    background-color: #F0F4F7;
+    }
+    
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+    
+    }
+    
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+    }

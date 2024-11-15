@@ -1,0 +1,92 @@
+{
+    "HELLO": "مرحبا",
+    "WELCOME": "مرحبًا بك في تطبيقنا!",
+    "confirmDeleteTitle" : "رسالة تحذيرية",
+    "confirmDeleteMessage":"هل انت متأكد من انك تريد حذف هذا السجل",
+     "save":"حفظ",
+    "cancel":"إالغاء",
+    "add":"اضافة",
+    "Update":"تعديل",
+    "detials":"التفاصيل",
+    "delete":"حذف",
+    "ChooseImage":"إاختر الصور",
+    "searchPlaceholder":"بحث...",
+    "tableHeader":{
+      "image":"الصورة",
+      "username":"اسم المستخدم",
+      "email":"البريد الإلكتروني",
+      "phoneNum":"رقم الهاتف",
+      "role" :"الدور",
+      "password":"كلمة المرور",
+      "rePassword":"إعادة كتابة كلمة المرور",
+
+      "displayOrder":"ترتيب العرض",
+      "nameAr":"الأسم بالعربية",
+      "nameEn":"الأسم بالإنجليزية",
+      "descriptionAr":"الوصف بالعربية",
+      "descriptionEn":"الوصف بالإنجليزية"
+
+
+
+    },
+    "sideMenu":{
+      "dashboard":"لوحة التحكم",
+      "users":"الأعضاء",
+      "newUser":"إضافة عضو جديد",
+      "permissions":"الصلاحيات",
+      "product":"المنتجات",
+      "about":"نبذة عن",
+      "sliders":"عرض الصور",
+      "category":"الفئات",
+      "contactUs":"تواصل معنا",
+      "myProfile":"صفحتي",
+      "logout":"تسجيل خروج"
+    },
+    "Users":{
+      "header" : "الاعضاء",
+      "UpdateModal":"تعديل العضو",
+      "CreateModal":"إضافة عضو جديد"
+    },
+    "about":
+    {
+      "header":"نبذة عن الشركة"
+    },
+    "slider":{
+      "title":"تفاصيل عرض الصورة",
+      "oder" : "لا يوجد"
+    },
+    "product":
+    {
+      "add":"إضافة منتج جديد",
+      "update":"تعديل المنتج",
+      "details":"تفاصيل",
+
+      "all":"جميع المنتجات",
+      "view" :"رؤية الصورة",
+      "labels":{
+        "name":"اسم المنتج",
+        "category":"الفئة",
+        "traderPrice":"سعر التاجر",
+        "traderDiscount":"خصم التاجر",
+        "quantity":"الكمية",
+        "customerPrice":"سعر العميل",
+        "customerDiscount":"خصم العميل",
+        "description":"الوصف",
+        "product-Image":"صورة المنتج",
+        "priceAfterTraderDiscount":"السعر بعد خصم التاجر",
+        "priceAfterCustomerDiscount":"السعر بعد خصم العميل"
+
+      }
+    },
+    "errors":{
+      "required":"هذا الحقل مطلوب",
+      "maxlength":"اقصي عدد من الحروف يكون ",
+      "minlength":"اقل عدد من الحروف يكون ",
+      "images":"قم بإرفاق صورة واحدة على الأقل ",
+      "discount":"ادخل رقماً بين 0% الي 100%",
+      "number":"برجاء ادخال ارقام فقط"
+    }
+
+
+  }
+  
